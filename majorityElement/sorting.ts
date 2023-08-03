@@ -3,3 +3,4 @@ function majorityElement(nums: number[]): number {
   const n: number = nums.length;
   return nums[Math.floor(n / 2)];
 }
+export {};
